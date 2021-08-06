@@ -3,7 +3,7 @@
  
  Aprendendo a usar o **Branch**.
  
- Aprendendo a fazer uma hospedagem grátis no **GitHub Pages** .
+ Aprendendo a hospedar site de forma gratuita pelo **GitHub Pages** .
  
  
  
